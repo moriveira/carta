@@ -265,6 +265,8 @@ body {
   margin-top: 300px;
   font-size: 20px;
   opacity: 0%;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .valentines-day-card:hover .carinho p {
@@ -277,16 +279,22 @@ body {
   font-family: "La Belle Aurore", cursive;
   margin-top: -20px;
   text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .valentines-day-card:hover .feliz h1 {
   opacity: 100%;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 
 .text p {
   margin-top: -5px;
   font-size: 38px;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .valentines-day-card:hover .text {
