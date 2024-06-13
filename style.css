@@ -234,8 +234,6 @@ body {
 
 .text:hover {
   transition: all 400ms;
-  user-select: none;
-  -webkit-user-select: none;
 }
 
 
@@ -246,6 +244,8 @@ body {
 
 .page {
   font-size: 0px;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .valentines-day-card:hover .page {
@@ -261,8 +261,6 @@ body {
   font-style: normal;
   margin-left: 15px;
   margin-right: 15px;
-  user-select: none;
-  -webkit-user-select: none;
 }
 
 .carinho p {
@@ -306,4 +304,6 @@ body {
 .valentines-day-card:hover .text {
   text-align: center;
   margin-left: 140px;
+  user-select: none;
+  -webkit-user-select: none;
 }
