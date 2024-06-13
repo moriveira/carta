@@ -221,6 +221,8 @@ body {
   top: 320px;
   animation: up 1s ease forwards;
   transition: all 400ms;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .hover {
@@ -232,6 +234,8 @@ body {
 
 .text:hover {
   transition: all 400ms;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 
@@ -257,6 +261,8 @@ body {
   font-style: normal;
   margin-left: 15px;
   margin-right: 15px;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .carinho p {
