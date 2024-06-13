@@ -29,6 +29,7 @@ body {
   border-radius: 10px;
   box-shadow: 13px 15px 35px 0px pink;
   transition: all 400ms;
+  margin-top: -30px;
 }
 
 .valentines-day-card:hover {
